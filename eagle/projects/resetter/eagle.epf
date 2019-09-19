@@ -1,0 +1,46 @@
+[Eagle]
+Version="07 05 00"
+Platform="Mac OS X"
+Serial="62191E841E-LSR-WLM-1EL"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+UsedLibrary="/Users/agaitomek/infomechanica_code11/geekhome.esp13/eagle/libraries/ESP8266-ESP12.lbr"
+UsedLibrary="/Users/agaitomek/infomechanica_code11/geekhome.esp13/eagle/libraries/GeekAmmo.lbr"
+UsedLibrary="/Users/agaitomek/infomechanica_code11/geekhome.esp13/eagle/libraries/RHT03_DHT-22_AM2302.lbr"
+UsedLibrary="/Users/agaitomek/infomechanica_code11/geekhome.esp13/eagle/libraries/SparkFun-Aesthetics.lbr"
+UsedLibrary="/Users/agaitomek/infomechanica_code11/geekhome.esp13/eagle/libraries/SparkFun-AnalogIC.lbr"
+UsedLibrary="/Users/agaitomek/infomechanica_code11/geekhome.esp13/eagle/libraries/SparkFun-Boards.lbr"
+UsedLibrary="/Users/agaitomek/infomechanica_code11/geekhome.esp13/eagle/libraries/SparkFun-Capacitors.lbr"
+UsedLibrary="/Users/agaitomek/infomechanica_code11/geekhome.esp13/eagle/libraries/SparkFun-Connectors.lbr"
+UsedLibrary="/Users/agaitomek/infomechanica_code11/geekhome.esp13/eagle/libraries/SparkFun-DigitalIC.lbr"
+UsedLibrary="/Users/agaitomek/infomechanica_code11/geekhome.esp13/eagle/libraries/SparkFun-DiscreteSemi.lbr"
+UsedLibrary="/Users/agaitomek/infomechanica_code11/geekhome.esp13/eagle/libraries/SparkFun-Displays.lbr"
+UsedLibrary="/Users/agaitomek/infomechanica_code11/geekhome.esp13/eagle/libraries/SparkFun-Electromechanical.lbr"
+UsedLibrary="/Users/agaitomek/infomechanica_code11/geekhome.esp13/eagle/libraries/SparkFun-FreqCtrl.lbr"
+UsedLibrary="/Users/agaitomek/infomechanica_code11/geekhome.esp13/eagle/libraries/SparkFun-LED.lbr"
+UsedLibrary="/Users/agaitomek/infomechanica_code11/geekhome.esp13/eagle/libraries/SparkFun-Passives.lbr"
+UsedLibrary="/Users/agaitomek/infomechanica_code11/geekhome.esp13/eagle/libraries/SparkFun-PowerIC.lbr"
+UsedLibrary="/Users/agaitomek/infomechanica_code11/geekhome.esp13/eagle/libraries/SparkFun-RF.lbr"
+UsedLibrary="/Users/agaitomek/infomechanica_code11/geekhome.esp13/eagle/libraries/SparkFun-Resistors.lbr"
+UsedLibrary="/Users/agaitomek/infomechanica_code11/geekhome.esp13/eagle/libraries/SparkFun-Retired.lbr"
+UsedLibrary="/Users/agaitomek/infomechanica_code11/geekhome.esp13/eagle/libraries/SparkFun-Sensors.lbr"
+UsedLibrary="/Users/agaitomek/infomechanica_code11/geekhome.esp13/eagle/libraries/User-Submitted.lbr"
+UsedLibrary="/Users/agaitomek/infomechanica_code11/geekhome.esp13/eagle/libraries/adafruit.lbr"
+UsedLibrary="/Users/agaitomek/infomechanica_code11/geekhome.esp13/eagle/libraries/captain-slow.lbr"
+UsedLibrary="/Users/agaitomek/infomechanica_code11/geekhome.esp13/eagle/libraries/esp-wroom-02.lbr"
+UsedLibrary="/Users/agaitomek/infomechanica_code11/geekhome.esp13/eagle/libraries/optodevices.lbr"
+UsedLibrary="/Users/agaitomek/infomechanica_code11/geekhome.esp13/eagle/libraries/relay.lbr"
+UsedLibrary="/Users/agaitomek/infomechanica_code11/geekhome.esp13/eagle/libraries/switch-tact.lbr"
+
+[Win_1]
+Type="Control Panel"
+Loc="0 -22 599 377"
+State=2
+Number=0
+
+[Desktop]
+Screen="1280 800"
+Window="Win_1"
